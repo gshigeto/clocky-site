@@ -1,0 +1,15 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+  Gavin Nitta -- Head Honcho -- @gshigeto
+  John Woodruff -- Tech Guru -- @johnwoodruff91
+
+# THANKS
+
+  <name>
+
+# TECHNOLOGY COLOPHON
+
+  HTML5, CSS3
