@@ -1,12 +1,12 @@
-.text-align-center {
-  text-align: center;
-}
-
-.block-align-center {
-  margin-left: auto;
+.demo-card-square.mdl-card {
+  margin-top: 40px;
+  margin-bottom: 40px;
   margin-right: auto;
+  margin-left: auto;
+  width: 600px;
+  height: 320px;
 }
-
-.flex-horizontal-center {
-  justify-content: center;
+.demo-card-square > .mdl-card__title {
+  color: #fff;
+  background-color: #3F51B5;
 }
