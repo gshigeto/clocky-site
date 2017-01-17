@@ -211,12 +211,3 @@ html, body {
 .mdl-demo .mdl-menu__container {
   z-index: 99;
 }
-.img-section {
-  text-align: center;
-}
-.screenshot-img {
-  height: 500px;
-}
-.screenshot-img-larger {
-  height: 700px;
-}

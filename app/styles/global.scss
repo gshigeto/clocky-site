@@ -3,8 +3,8 @@
   margin-bottom: 40px;
   margin-right: auto;
   margin-left: auto;
-  width: 600px;
   height: 320px;
+  width: auto;
 }
 .demo-card-square > .mdl-card__title {
   color: #fff;
@@ -20,4 +20,20 @@
 }
 .margin-top-20 {
   margin-top: 20px;
+}
+.img-section {
+  text-align: center;
+  margin: 80px 0;
+}
+.screenshot-img {
+  height: 500px;
+  margin-bottom: 20px;
+
+  .larger {
+    height: 700px;
+
+    @media (max-width: 866px) {
+      height: 500px;
+    }
+  }
 }
