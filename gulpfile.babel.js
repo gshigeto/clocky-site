@@ -265,7 +265,7 @@ gulp.task('deploy', ['default'], () => {
 
   // define custom headers
   const headers = {
-    'Cache-Control': 'max-age=315360000, no-transform, public'
+    'Cache-Control': 'max-age=86400, no-transform, public'
   };
 
   return gulp.src('dist/**/*.*')
